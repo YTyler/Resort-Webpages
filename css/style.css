@@ -1,0 +1,21 @@
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 17px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  padding: 15px 32px;
+  border: 2px solid #4CAF50; /* Green */
+}
+
+.container {
+  font-family: fantasy;
+  font-size: 22px;
+}
